@@ -1,2 +1,7 @@
 # BEng-Quantum-Internet-Thesis
-This paper is a state-of-the-art review of the implementation, challenges, and future opportunities of quantum internet networks,
+This paper is a state-of-the-art review of the implementation, challenges, and future opportunities of quantum internet networks.
+
+Abstract:
+Since its emergence, the field of quantum mechanics has slowly upended the way we perceive and understand our world. As the study of quantum information and communication progresses, anticipation for its possible integration in modern-day communication networks grows, paving the way toward the Quantum Internet. However, quantum technology is difficult to implement in practice, largely due to qubits having complex and unusual properties.
+
+The aim of this thesis is to provide a survey on the ongoing development of quantum technologies, particularly in the context of Internet networks. It examines state-of-the-art research in the field of quantum communications with the intent to summarize and discuss its present and future implementations. Covering the former, this thesis first investigates quantum applications in contemporary telecommunication infrastructure. It also seeks to formalize the challenges that quantum mechanisms introduce to the classical communication network while analyzing potential improvements and solutions. Finally, the thesis explores the use of quantum mechanisms in the development of a dedicated Quantum Internet protocol stack, focusing on the opportunities it can bring to the telecommunication field as well as proposals in its composition and operation.
